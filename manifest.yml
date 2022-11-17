@@ -1,0 +1,4 @@
+---
+applications:
+  - name: agentes-nacho
+    random-route: true
